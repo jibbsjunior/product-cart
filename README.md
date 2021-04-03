@@ -1,5 +1,3 @@
 # product-cart
-a product cart which was design with pure html and css.
-This task was given to me in my current bootcamp am in now, you can check the product cart.jpg i commit with this repo to check the 
-original image given to me/us and we were ask to convert it to pure html and css.its no really easy though but with collective effort
-of my fellow devs, we all achieve it together.you can do the comparison and rate the work between 1-10.thanks
+a product cart that was designed with pure HTML and CSS.
+This task was given to me in my current Bootcamp I'm in now, you can check the product cart.jpg I commit with this repo to check the original image given to me/us and we were asked to convert it to pure HTML and CSS.its no really easy though but with a collective effort of my fellow devs, we all achieve it together. you can do the comparison and rate the work between 1-10.thanks
